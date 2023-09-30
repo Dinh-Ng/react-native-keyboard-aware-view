@@ -486,13 +486,13 @@ es-abstract@^1.22.1:
     which-typed-array "^1.1.11"
 
 es-iterator-helpers@^1.0.12:
-  version "1.0.14"
-  resolved "https://registry.yarnpkg.com/es-iterator-helpers/-/es-iterator-helpers-1.0.14.tgz#19cd7903697d97e21198f3293b55e8985791c365"
-  integrity sha512-JgtVnwiuoRuzLvqelrvN3Xu7H9bu2ap/kQ2CrM62iidP8SKuD99rWU3CJy++s7IVL2qb/AjXPGR/E7i9ngd/Cw==
+  version "1.0.15"
+  resolved "https://registry.yarnpkg.com/es-iterator-helpers/-/es-iterator-helpers-1.0.15.tgz#bd81d275ac766431d19305923707c3efd9f1ae40"
+  integrity sha512-GhoY8uYqd6iwUl2kgjTm4CZAf6oo5mHK7BPqx3rKgx893YSsy0LGHV6gfqqQvZt/8xM8xeOnfXBCfqclMKkJ5g==
   dependencies:
     asynciterator.prototype "^1.0.0"
     call-bind "^1.0.2"
-    define-properties "^1.2.0"
+    define-properties "^1.2.1"
     es-abstract "^1.22.1"
     es-set-tostringtag "^2.0.1"
     function-bind "^1.1.1"
@@ -502,8 +502,8 @@ es-iterator-helpers@^1.0.12:
     has-proto "^1.0.1"
     has-symbols "^1.0.3"
     internal-slot "^1.0.5"
-    iterator.prototype "^1.1.0"
-    safe-array-concat "^1.0.0"
+    iterator.prototype "^1.1.2"
+    safe-array-concat "^1.0.1"
 
 es-set-tostringtag@^2.0.1:
   version "2.0.1"
