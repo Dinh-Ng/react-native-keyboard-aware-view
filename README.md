@@ -1,4 +1,4 @@
-# react-native-keyboard-aware-scroll-view
+# rn-keyboard-aware-view
 
 <p>
 <img src="https://travis-ci.org/APSL/react-native-keyboard-aware-scroll-view.svg?branch=master" />
