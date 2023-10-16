@@ -1,10 +1,10 @@
 # rn-keyboard-aware-view
 
-<p>
+<!-- <p>
 <img src="https://travis-ci.org/APSL/react-native-keyboard-aware-scroll-view.svg?branch=master" />
 <img src="https://img.shields.io/npm/dm/react-native-keyboard-aware-scroll-view.svg" />
 <img src="https://img.shields.io/npm/dt/react-native-keyboard-aware-scroll-view.svg" />
-</p>
+</p> -->
 
 A ScrollView component that handles keyboard appearance and automatically scrolls to focused `TextInput`.
 
@@ -25,11 +25,11 @@ A ScrollView component that handles keyboard appearance and automatically scroll
 Installation can be done through `npm` or `yarn`:
 
 ```shell
-npm i react-native-keyboard-aware-scroll-view --save
+npm i rn-keyboard-aware-view --save
 ```
 
 ```shell
-yarn add react-native-keyboard-aware-scroll-view
+yarn add rn-keyboard-aware-view
 ```
 
 ## Usage
@@ -39,11 +39,11 @@ components. They accept `ScrollView`, `SectionList` and `FlatList` default props
 implement a custom high order component called `KeyboardAwareHOC` to handle keyboard appearance.
 The high order component is also available if you want to use it in any other component.
 
-Import `react-native-keyboard-aware-scroll-view` and wrap your content inside
+Import `rn-keyboard-aware-view` and wrap your content inside
 it:
 
 ```js
-import { KeyboardAwareScrollView } from 'react-native-keyboard-aware-scroll-view'
+import { KeyboardAwareScrollView } from 'rn-keyboard-aware-view'
 ```
 
 ```jsx
