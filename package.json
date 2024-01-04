@@ -37,7 +37,7 @@
     "homepage": "https://github.com/Dinh-Ng/rn-keyboard-aware-view#readme",
     "dependencies": {
         "prop-types": "^15.6.2",
-        "rn-iphone-helper": "^2.0.2"
+        "rn-iphone-helper": "^2.0.3"
     },
     "peerDependencies": {
         "react-native": ">=0.48.4"
