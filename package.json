@@ -36,7 +36,7 @@
     },
     "homepage": "https://github.com/Dinh-Ng/rn-keyboard-aware-view#readme",
     "dependencies": {
-        "prop-types": "^15.6.2",
+        "prop-types": "^15.8.1",
         "rn-iphone-helper": "^2.0.3"
     },
     "peerDependencies": {
