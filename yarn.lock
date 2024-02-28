@@ -529,7 +529,7 @@ es-iterator-helpers@^1.0.12:
     iterator.prototype "^1.1.2"
     safe-array-concat "^1.1.0"
 
-es-set-tostringtag@^2.0.1:
+es-set-tostringtag@^2.0.2:
   version "2.0.2"
   resolved "https://registry.yarnpkg.com/es-set-tostringtag/-/es-set-tostringtag-2.0.2.tgz#11f7cc9f63376930a5f20be4915834f4bc74f9c9"
   integrity sha512-BuDyupZt65P9D2D2vA/zqcI3G5xRsklm5N3xCwuiy+/vKy8i0ifdsQP1sLgO4tZDSCaQUSnmC48khknGMV3D2Q==
