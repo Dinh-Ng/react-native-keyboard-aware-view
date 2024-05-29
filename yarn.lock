@@ -1084,6 +1084,13 @@ is-core-module@^2.13.0:
   dependencies:
     hasown "^2.0.0"
 
+is-data-view@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/is-data-view/-/is-data-view-1.0.1.tgz#4b4d3a511b70f3dc26d42c03ca9ca515d847759f"
+  integrity sha512-AHkaJrsUVW6wq6JS8y3JnM/GJF/9cf+k20+iDzlSaJrinEo5+7vRiteOSwBhHRiAyQATN1AmY4hwzxJKPmYf+w==
+  dependencies:
+    is-typed-array "^1.1.13"
+
 is-date-object@^1.0.1, is-date-object@^1.0.5:
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/is-date-object/-/is-date-object-1.0.5.tgz#0841d5536e724c25597bf6ea62e1bd38298df31f"
